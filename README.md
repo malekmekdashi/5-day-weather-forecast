@@ -26,5 +26,7 @@
   Malek Mekdashi
 
   ## Screenshots
+![image](https://user-images.githubusercontent.com/108254449/208056186-1c8a9ead-1473-4465-a922-67cad972f62d.png)
+![image](https://user-images.githubusercontent.com/108254449/208056254-70a76a36-663a-45f5-944c-33c6f30ac2fe.png)
 
 
